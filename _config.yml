@@ -25,5 +25,9 @@ topics:
     image_url: images/docker.png
 
   - name: Kubernetes 
-    web_url: https://github.com/topics/kubernetes
+    web_url: https://kubernetes.io/
     image_url: images/kubernetes.png
+
+  - name: TravisCI
+    web_url: https://travis-ci.org/
+    image_url: images/travisci.png
