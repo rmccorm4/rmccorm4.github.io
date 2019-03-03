@@ -18,7 +18,7 @@ defaults:
 topics:
   - name: Go
     web_url: https://github.com/topics/go
-    image_url: https://raw.github.com/golang-samples/gopher-vector/master/gopher.png
+    image_url: images/gopherize-me.png
 
   - name: Docker
     web_url: https://www.docker.com/
