@@ -21,9 +21,9 @@ topics:
     image_url: https://raw.github.com/golang-samples/gopher-vector/master/gopher.png
 
   - name: Docker
-    web_url: 
+    web_url: https://www.docker.com/
     image_url: images/docker.png
 
-  - name: Sass
+  - name: Bro
     web_url: https://github.com/topics/sass
-    image_url: https://raw.githubusercontent.com/github/explore/6c6508f34230f0ac0d49e847a326429eefbfc030/topics/sass/sass.png
+    image_url: images/bro.jpg
