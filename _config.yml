@@ -24,6 +24,6 @@ topics:
     web_url: https://www.docker.com/
     image_url: images/docker.png
 
-  - name: Bro
-    web_url: https://github.com/topics/sass
-    image_url: images/bro.jpg
+  - name: Kubernetes 
+    web_url: https://github.com/topics/kubernetes
+    image_url: images/kubernetes.png
