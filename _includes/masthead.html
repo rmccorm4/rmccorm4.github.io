@@ -41,8 +41,10 @@
 
     {% if user.company %}
       <div class="{{ metadata_styles }} {% if site.style == 'dark' %}text-white{% endif %}">
-        {% octicon organization height:20 class:"mr-2 v-align-middle" fill:{{ icon_color }} aria-label:Location %}
-        {{ user.company}}
+        {% octicon organization height:20 class:"mr-2 v-align-middle" fill:{{ icon_color }} aria-label:Company %}
+        <a href="https://www.nvidia.com/en-us/" {% if site.style == 'dark' %}class="text-white"{% endif %}>
+          {{ user.company }}
+        </a>
       </div>
     {% endif %}
 
