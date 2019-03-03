@@ -15,6 +15,14 @@ defaults:
     values:
       layout: "post"
 
+repositories:
+  - Pokefetch
+  - manual-alpaca
+  - terminal-wallpaper
+  - NumberPhile
+  - pynux
+  - Parallel-KNN
+
 topics:
   - name: Go
     web_url: https://github.com/topics/go
